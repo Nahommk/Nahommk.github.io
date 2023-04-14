@@ -68,7 +68,7 @@ body{
     position:fixed;
     background-color:greenyellow;
     top:0;    
-    border-radius:5px;    
+    border-radius:20px 100px;    
     text-align:center;
     margin-left:350px;
     font-size:45px; 
